@@ -1,0 +1,15 @@
+C:\Users\olih2\OneDrive\Рабочий стол\Zadanie3\Zadanie3\bin\Debug\Database1.mdf
+C:\Users\olih2\OneDrive\Рабочий стол\Zadanie3\Zadanie3\bin\Debug\Database1_log.ldf
+C:\Users\olih2\OneDrive\Рабочий стол\Zadanie3\Zadanie3\bin\Debug\Zadanie3.exe.config
+C:\Users\olih2\OneDrive\Рабочий стол\Zadanie3\Zadanie3\bin\Debug\Zadanie3.exe
+C:\Users\olih2\OneDrive\Рабочий стол\Zadanie3\Zadanie3\bin\Debug\Zadanie3.pdb
+C:\Users\olih2\OneDrive\Рабочий стол\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csproj.AssemblyReference.cache
+C:\Users\olih2\OneDrive\Рабочий стол\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csproj.SuggestedBindingRedirects.cache
+C:\Users\olih2\OneDrive\Рабочий стол\Zadanie3\Zadanie3\obj\Debug\Zadanie3.Form1.resources
+C:\Users\olih2\OneDrive\Рабочий стол\Zadanie3\Zadanie3\obj\Debug\Zadanie3.Properties.Resources.resources
+C:\Users\olih2\OneDrive\Рабочий стол\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csproj.GenerateResource.cache
+C:\Users\olih2\OneDrive\Рабочий стол\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csproj.CoreCompileInputs.cache
+C:\Users\olih2\OneDrive\Рабочий стол\Zadanie3\Zadanie3\obj\Debug\Zadanie3.exe
+C:\Users\olih2\OneDrive\Рабочий стол\Zadanie3\Zadanie3\obj\Debug\Zadanie3.pdb
+C:\Users\olih2\OneDrive\Рабочий стол\Zadanie3\Zadanie3\obj\Debug\Zadanie3.Form2.resources
+C:\Users\olih2\OneDrive\Рабочий стол\Zadanie3\Zadanie3\obj\Debug\Zadanie3.Form3.resources
